@@ -1,0 +1,20 @@
+Trig sequencer components
+
+16   spdt switch mini
+ 1   sp 3-way switch on-off-on  (S1)
+ 1   pushbutton spst  (S2)
+ 4   3,5 mm telejacks
+ 1   2x8 connector
+ 1   potentiometer 10K lin  (P1)
+ 3   CD4067B SOW-24  (IC1, IC2, IC3)
+ 1   Arduino nano
+16   red led 3 mm
+16   green led 3 mm
+ 1   10 uF  (C1)
+ 1   0.1 uF  (C2)
+ 2   6.8 K  (R1, R2)
+ 2   1 K  (R3, R4)
+ 2   390 ohm  (R5, R6)
+ 2   zener 3.9 V  (Z1, Z2)
+
+
